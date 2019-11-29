@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDnsMode</string>
+    <string name="xposed_description">Sets environment variable ANDROID_DNS_MODE=local for every app</string>
+</resources>
